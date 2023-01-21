@@ -1,0 +1,14 @@
+10hello.sh
+anaconda3
+Code
+DATA
+Desktop
+Documents
+Downloads
+foo
+Music
+Pictures
+Public
+snap
+Templates
+Videos
