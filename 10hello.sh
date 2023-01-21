@@ -1,14 +1,3 @@
-10hello.sh
-anaconda3
-Code
-DATA
-Desktop
-Documents
-Downloads
-foo
-Music
-Pictures
-Public
-snap
-Templates
-Videos
+echo "Hello $USER, your home is $HOME, and your shell is $SHELL"
+ls $HOME/Code/*
+ls $HOME/DATA
